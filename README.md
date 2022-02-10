@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+Also, sometimes I do CodeWars:
 <p align="center">
     <a href="https://www.codewars.com/users/Kaniak/badges/large" alt="Contributors">
         <img src="https://www.codewars.com/users/Kaniak/badges/large" /></a>
