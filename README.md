@@ -5,10 +5,18 @@
 <p align="center">
     <img
          height="180em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaniak274&theme=midnight-purple"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaniak274&theme=github-dark"
          alt="kaniak274"
          align="center"
      />
+</p>
+
+<p align="center">
+    <img
+         alt="Kaniak graph"
+         src="https://activity-graph.herokuapp.com/graph?username=kaniak274&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&"
+    />
+
 </p>
 
 <p align="center">
