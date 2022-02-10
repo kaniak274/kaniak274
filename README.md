@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+### About me
+Senior Backend web developer & API designer @Makimo. Nowadays I usually work with Python and libraries like: Django, Flask or Fast API to provide REST or GraphQL API for Frontend clients & mobile devices. I can also work with:
+* Go
+* Java
+* Clojure
+* JavaScript
+
+Always looking for opportunities to learn something new. If you have an offer for me let me know I'm willing to cooperate.
+
+#### Business inquiries:
+📧 kaniak274@gmail.com
 
 ### Github
 <p align="center">
