@@ -7,6 +7,8 @@ Senior Backend web developer & API designer [@Makimo](https://github.com/makimo)
 * Clojure
 * JavaScript
 
+Furthemore, sometimes I'm responsible for devOps things using the AWS, docker containers and Terraform.
+
 Always looking for opportunities to learn something new. If you have an offer for me let me know I'm willing to cooperate.
 
 #### Business inquiries:
