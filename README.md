@@ -25,6 +25,10 @@
      />
 </p>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=kaniak274&margin-w=5&theme=midnight-purple" alt="kaniak274" />
+</p>
+
 
 ### Codewars
 <p align="center">
