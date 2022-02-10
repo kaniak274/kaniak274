@@ -1,7 +1,18 @@
 ### Hi there 👋
 
 
-#### Codewars
+### Github
+<p align="center">
+    <img
+         height="180em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaniak274&theme=github_dark"
+         alt="kaniak274"
+         align="center"
+     />
+</p>
+
+
+### Codewars
 <p align="center">
     <a href="https://www.codewars.com/users/Kaniak/badges/large" alt="Contributors">
         <img src="https://www.codewars.com/users/Kaniak/badges/large" /></a>
