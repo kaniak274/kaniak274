@@ -13,6 +13,7 @@ Always looking for opportunities to learn something new. If you have an offer fo
 
 #### Business inquiries:
 📧 kaniak274@gmail.com
+
 :octocat: [GitHub Discussions](https://github.com/kaniak274/kaniak274/discussions)
 
 ### Github
