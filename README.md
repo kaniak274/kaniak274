@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ### About me
-My name is Kamil Kucharski and I'm a Senior Backend web developer & API designer [@Makimo](https://github.com/makimo). Nowadays I usually work with Python and libraries like: Django, Flask or Fast API to provide REST or GraphQL APIs for Frontend clients & mobile devices. I can also work with:
+My name is Kamil Kucharski and I'm a Senior Backend web developer & API designer [@Makimo](https://github.com/makimo). I usually work with Python and libraries like: Django, Flask or Fast API to provide REST or GraphQL APIs for Frontend clients & mobile devices. I can also work with:
 * Go
 * Java
 * Clojure
