@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-Sometimes I do:
-https://www.codewars.com/users/Kaniak/badges/large
+
+<p align="center">
+    <a href="https://www.codewars.com/users/Kaniak/badges/large" alt="Contributors">
+        <img src="https://www.codewars.com/users/Kaniak/badges/large" /></a>
+</p>
 
 <!--
 **kaniak274/kaniak274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
