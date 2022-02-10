@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 ### About me
 Senior Backend web developer & API designer @Makimo. Nowadays I usually work with Python and libraries like: Django, Flask or Fast API to provide REST or GraphQL API for Frontend clients & mobile devices. I can also work with:
