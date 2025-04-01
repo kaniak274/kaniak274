@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ### About me
-My name is Kamil and I'm a Senior Backend web developer & API designer [@Makimo](https://github.com/makimo).
+My name is Kamil and I'm a Senior Backend web developer & API designer.
 
 #### Technologies I know
 
@@ -74,7 +74,7 @@ My name is Kamil and I'm a Senior Backend web developer & API designer [@Makimo]
 Always looking for opportunities to learn something new. If you have an offer for me let me know I'm willing to cooperate.
 
 #### Business inquiries:
-📧 kaniak274@gmail.com
+📧 kamil.kucharski95@gmail.com
 
 :octocat: [GitHub Discussions](https://github.com/kaniak274/kaniak274/discussions)
 
